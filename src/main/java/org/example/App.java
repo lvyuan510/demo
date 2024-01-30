@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("测试一下提交");
-        System.out.println(1+1);
+      
     }
 }
